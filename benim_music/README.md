@@ -15,4 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/omertaske/Mymusic/blob/main/benim_music/screen_image/inter.png
+![inter](https://user-images.githubusercontent.com/58364159/214843677-9677bb7f-3ae2-4277-aae4-8edc2a942fad.png)
+
+![nkn](https://user-images.githubusercontent.com/58364159/214843715-b2729cad-6fd6-41da-88c3-cff6378bac32.png)
+
+![ozell](https://user-images.githubusercontent.com/58364159/214843729-961f9b09-9140-4f94-bbd0-879961f087f2.png)
+
+
+![rad](https://user-images.githubusercontent.com/58364159/214843758-2ffcdbf3-4a4a-4c00-b6cf-d1dc4f2a5743.png)
